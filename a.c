@@ -5,4 +5,5 @@ int a() {
 
 int b() {
    int ab = 0;
+   int df = 0;
 }
