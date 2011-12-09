@@ -1,0 +1,8 @@
+// just test
+int a() {
+   int ab = 0;
+}
+
+int b() {
+   int ab = 0;
+}
