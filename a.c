@@ -1,6 +1,6 @@
 // just test
 int a() {
-   int ab = 1;
+   int ab = 2;
    int cd = 0;
 }
 
